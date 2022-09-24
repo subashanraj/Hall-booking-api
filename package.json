@@ -9,6 +9,7 @@
   "author": "subash",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "git": "^0.1.5"
   }
 }
